@@ -1,7 +1,7 @@
 # 神奇之地
 欢迎来到这里!
 
-[Kaskobi's Max for Live 插件下载](kaskobi.com/downloads)
+[Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
 
 [资源分享](mds/share.md)
 
