@@ -1,7 +1,9 @@
 # 神奇之地
 欢迎来到这里!
 
-[资源分享](_posts/2021_2_2_share.md)
+[Kaskobi's Max for Live 插件下载](kaskobi.com/downloads)
+
+[资源分享](mds/share.md)
 
 
 
