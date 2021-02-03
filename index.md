@@ -3,9 +3,17 @@
 
 这里应该还是个简单的跳转站罢了
 
-[资源分享](mds/share.md)
+![mainsitepic](images/mastersitepic.jpg)
 
-[Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
+> 图pid：80051599
+
+------
+
+点击即可跳转
+
+- [各种学习版软件的分享](mds/share.md)
+
+- [Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
 
 ------
 
