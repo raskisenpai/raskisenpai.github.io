@@ -18,4 +18,4 @@
 
 ~~**`来自恩杰马克丁代理的软件不公开列出`**~~
 
-[测试](file:///%systemroot%/System32/drivers/etc/hosts)
+[测试](File:///%systemroot%/System32/drivers/etc/hosts)
