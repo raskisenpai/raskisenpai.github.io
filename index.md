@@ -3,9 +3,9 @@
 
 这里应该还是个简单的跳转站罢了
 
-[Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
-
 [资源分享](mds/share.md)
+
+[Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
 
 ------
 
