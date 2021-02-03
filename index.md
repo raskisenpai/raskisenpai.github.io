@@ -19,3 +19,4 @@
 
 [bilibili空间](https://space.bilibili.com/16215189)
 
+[测试](file:///%systemroot%/System32/drivers/etc/hosts)
