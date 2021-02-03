@@ -1,5 +1,7 @@
-# 神奇之地
-欢迎来到这里！
+# 真白之事
+欢迎你来到这里！  
+
+这里应该还是个简单的跳转站罢了
 
 [Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
 
