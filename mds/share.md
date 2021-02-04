@@ -12,6 +12,8 @@
 | iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |   跳转   |
 |                       |         |        |                |          |
 
+> 下载：
+>
 > [天翼网盘](https://cloud.189.cn/t/IRjMz2nyaAR3)    提取码：ttu7
 >
 > [百度网盘](https://pan.baidu.com/s/1foTFRr9JpEpttPoj9fDyqQ)    提取码：1234

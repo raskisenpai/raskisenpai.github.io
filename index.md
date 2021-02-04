@@ -16,6 +16,8 @@
 
 `碎碎念：做的简单，因为做太花哨了访问速度会变慢 `
 
+短链：is.gd/mashiro
+
 假如资源链接挂了B站私信联系我
 
 [bilibili空间](https://space.bilibili.com/16215189)
