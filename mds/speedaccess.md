@@ -12,7 +12,7 @@
 
 打开“运行”或者快捷键Win+R
 
-![pic1](\images\runpic.jpg)
+![pic1](/easylinksite/images/runpic.jpg)
 
 输入路径回车，选择记事本 或者 其他如果你有的各种文本编辑器
 
