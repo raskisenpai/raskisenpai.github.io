@@ -6,16 +6,12 @@
 
 > 目前已有的资源如下
 
-|         名称          |  版本   | 发布组 |      平台      |
-| :-------------------: | :-----: | :----: | :------------: |
-| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS |
-| iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |
-|                       |         |        |                |
+|         名称          |  版本   | 发布组 |      平台      | 安装教程 |
+| :-------------------: | :-----: | :----: | :------------: | :------: |
+| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS |   跳转   |
+| iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |   跳转   |
+|                       |         |        |                |          |
 
 > [天翼网盘](https://cloud.189.cn/t/IRjMz2nyaAR3)    提取码：ttu7
 >
 > [百度网盘](https://pan.baidu.com/s/1foTFRr9JpEpttPoj9fDyqQ)    提取码：1234
-
-~~**`来自恩杰马克丁代理的软件不公开列出`**~~
-
-[测试](file:///%systemroot%/System32/drivers/etc/hosts)

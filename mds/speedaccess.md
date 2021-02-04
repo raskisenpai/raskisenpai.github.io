@@ -1,6 +1,22 @@
 # 加快Kaskobi官网以及mat1jaczyyy的固件刷写网站速度
 
-利用Hosts
+简单来说就是利用Hosts
+
+------
+
+首先你需要打开hosts文件，路径如下
+
+```
+%SYSTEMROOT%\System32\drivers\etc\hosts
+```
+
+打开“运行”或者快捷键Win+R
+
+![runpic](/images/runpic.jpg)
+
+输入路径回车，选择记事本 或者 其他如果你有的各种文本编辑器
+
+在hosts文件输入下方两块共5个IP  
 
 ------
 

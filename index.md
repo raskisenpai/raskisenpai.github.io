@@ -7,13 +7,14 @@
 
 点击即可跳转
 
-- [各种学习版软件的分享](mds/share.md)
-
-- [Kaskobi's Max for Live 插件下载](https://kaskobi.com/downloads)
+- [一些学习版软件的分享](mds/share.md)
+- [Kaskobi的插件下载页](https://kaskobi.com/downloads)
+- [Launchpad Firmware Utility](https://fw.mat1jaczyyy.com)
+- [加快Kaskobi官网与LFU的访问速度](/mds/speedaccess.md)
 
 ------
 
-`碎碎念：本人不会写网站，就简单用GHP加Markdown搞了一个很简单的跳转站 `
+`碎碎念：做的简单，因为做太花哨了访问速度会变慢 `
 
 假如资源链接挂了B站私信联系我
 
