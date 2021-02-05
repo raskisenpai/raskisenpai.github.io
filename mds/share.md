@@ -6,11 +6,11 @@
 
 > 目前已有的资源如下
 
-|         名称          |  版本   | 发布组 |      平台      | 安装教程 |
-| :-------------------: | :-----: | :----: | :------------: | :------: |
-| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS |   跳转   |
-| iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |   跳转   |
-|                       |         |        |                |          |
+|         名称          |  版本   | 发布组 |      平台      |                      安装教程                      |
+| :-------------------: | :-----: | :----: | :------------: | :------------------------------------------------: |
+| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS | [跳转](https://bluedoc.io/shares/oLHMbzSJx1Q9SvvU) |
+| iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |                        跳转                        |
+|                       |         |        |                |                                                    |
 
 > 下载：
 >
