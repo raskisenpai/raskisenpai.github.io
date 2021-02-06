@@ -8,7 +8,7 @@
 
 |         名称          |  版本   | 发布组 |      平台      |                           安装教程                           |
 | :-------------------: | :-----: | :----: | :------------: | :----------------------------------------------------------: |
-| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS | [跳转](https://bluedoc.io/raskisenpai/tutorialall/ableton-live-instutorial) |
+| Ableton Live 10 Suite | 10.1.30 |  R2R   | Windows，macOS | [跳转](https://bluedoc.io/shironomonogatari/tutorialall/ableton-live-instutorial) |
 | iZotope RX 8 Advanced |  8.1.0  |  R2R   | Windows，macOS |                             跳转                             |
 |                       |         |        |                |                                                              |
 
