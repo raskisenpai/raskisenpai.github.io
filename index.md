@@ -11,6 +11,7 @@
 - [Kaskobi的插件下载页](https://kaskobi.com/downloads)
 - [Launchpad Firmware Utility](https://fw.mat1jaczyyy.com)
 - [加快Kaskobi官网与LFU的访问速度](/mds/speedaccess.md)
+- [脚本：彻底清除Live10卸载残留，授权及偏好设定](/mds/cleanableton.md)
 
 ------
 
