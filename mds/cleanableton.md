@@ -7,3 +7,12 @@
 Github：[跳转](https://github.com/raskisenpai/some-useful-batchfiles/blob/main/Clean%20Ableton%20Live.bat)
 
 注释：此脚本原理为删除AppData下的偏好设定目录以及C盘默认的安装路径，建议使用<font color=red>卸载程序卸载后</font>再运行此脚本来清除卸载程序无法卸载掉的部分
+
+路径如下：
+
+```
+配置文件保存目录："%AppData%\Ableton"
+程序本体默认安装目录："%ProgramData%\Ableton"
+开始菜单快捷方式："%AppData%\Microsoft\Windows\Start Menu\Programs\Ableton Live 10 Suite.lnk"
+```
+

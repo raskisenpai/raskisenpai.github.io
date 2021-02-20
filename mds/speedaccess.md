@@ -1,4 +1,4 @@
-# 加快Kaskobi官网以及mat1jaczyyy的固件刷写网站速度
+# 加快Kaskobi官网以及Launchpad Utility访问速度
 
 简单来说就是利用Hosts
 
