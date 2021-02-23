@@ -2,6 +2,8 @@
 
 简单来说就是利用Hosts
 
+ps,采用Hosts修改比较吃地区，有的地区改了会变快而有的则不会反而可能变慢，第一次打开都是慢的，后面就会好一点
+
 ------
 
 首先你需要打开hosts文件，路径如下
@@ -30,9 +32,7 @@ Kaskobi Official Website
 mat1jaczyyy Firmware Utility
 
 ```
-54.254.38.202 fw.mat1jaczyyy.com
-54.179.122.191 fw.mat1jaczyyy.com
-134.209.106.40 fw.mat1jaczyyy.com
+18.140.226.100 fw.mat1jaczyyy.com
 ```
 
 保存文件即可
