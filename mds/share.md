@@ -10,7 +10,7 @@
 | :-------------------: | :-----: | :------------: | :----------------------------------------------------------: |
 | Ableton Live 10 Suite | 10.1.30 | Windows，macOS | [跳转](https://bluedoc.io/shironomonogatari/tutorialall/live-10-install) |
 | iZotope RX 8 Advanced |  8.1.0  | Windows，macOS |                             跳转                             |
-| Ableton Live 11 Suite |  11.0   |     macOS      | [跳转](https://bluedoc.io/shironomonogatari/tutorialall/live-11-install) |
+| Ableton Live 11 Suite |  11.0   | Windows，macOS | [跳转](https://bluedoc.io/shironomonogatari/tutorialall/live-11-install) |
 
 > 下载：
 >
